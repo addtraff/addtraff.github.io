@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "countryToUrl": {
+    "br": "brazil url",
+    "bra": "brazil url",
+    "004": "brazil url",
+    "4": "brazil url"
+  }
+}
