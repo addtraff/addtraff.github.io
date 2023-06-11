@@ -1,6 +1,7 @@
 {
   "version": 1,
   "countryToUrl": {
+    "global": "https://chat.openai.com/",
     "br": "brazil url",
     "bra": "brazil url",
     "004": "brazil url",
